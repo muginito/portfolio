@@ -143,6 +143,7 @@ body {
     text-decoration: none;
     color: var(--frst-color);
     font-weight: 600;
+    font-size: 1.25rem;
 }
 
 .email:hover {
@@ -164,5 +165,9 @@ body {
 
     .main__content {
         width: auto;
+    }
+
+    .main__content__links__link {
+        width: 100%;
     }
 }
